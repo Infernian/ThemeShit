@@ -1550,14 +1550,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
   box-shadow:none !important;
 }
 .homeIcon-tEMBK1 {color: transparent}
-.homeIcon-tEMBK1 {
-	background: var(--main-color);
-	-webkit-mask: url('data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjQ4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSI0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTIxIDZoLTJ2OUg2djJjMCAuNTUuNDUgMSAxIDFoMTFsNCA0VjdjMC0uNTUtLjQ1LTEtMS0xem0tNCA2VjNjMC0uNTUtLjQ1LTEtMS0xSDNjLS41NSAwLTEgLjQ1LTEgMXYxNGw0LTRoMTBjLjU1IDAgMS0uNDUgMS0xeiIvPjwvc3ZnPg==');
-	-webkit-mask-size: 30px;
-	-webkit-mask-repeat: no-repeat;
-	-webkit-mask-position: center;
-	transition:250ms all ease;
-}
+
 
 /*============== END OF SECTION ============== */
 
